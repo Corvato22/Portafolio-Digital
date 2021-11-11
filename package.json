@@ -1,5 +1,5 @@
-{  
-  "homepage":"https: //corvato22.github.io/Portafolio-Digital",
+{
+  "homepage": "https: //corvato22.github.io/Portafolio-Digital",
   "name": "portafolio-digital",
   "version": "0.1.0",
   "private": true,
@@ -43,5 +43,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
