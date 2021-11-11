@@ -36,6 +36,11 @@ const StyledNavA = styled.a`
     text-decoration: none;
     margin-right: 40px;
     color: var(--white);
+    transition: 0.5s ease-in-out;
+    
+      &:hover {
+        color: var(--color);
+        }
     `
 const StyledButton = styled.button`
     width: 206px;
